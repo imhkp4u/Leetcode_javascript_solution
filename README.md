@@ -6,16 +6,16 @@
 ---
 
 ##### Easy
-* [1. Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](./Easy/7-reverseInteger.js)
+* [1. Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](./Easy/Two_Sum.js)
 
 ---
 
 ##### Medium
-* [1. Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](./Medium/1-twoSum.js)
+* [1. Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](./Medium/Container_With_Most_Water.js)
 
 ---
 
 ##### Hard
-* [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) -  [Solution](./Hard/23-MergeKSortedLists.js)
+* [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) -  [Solution](./Hard/Median_of_Two_Sorted_Arrays.js)
 
 
