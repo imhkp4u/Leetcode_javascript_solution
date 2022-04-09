@@ -13,7 +13,7 @@
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](./Easy/Two_Sum.js)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](./Easy/Two_Sum.js)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) - [Solution](./Easy/Two_Sum.js)
-* [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) - [Solution](./Easy/Two_Sum.js)
+* [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) - [Solution](https://github.com/imhkp4u/Leetcode_javascript_solution/blob/main/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) - [Solution](./Easy/Two_Sum.js)
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) - [Solution](./Easy/Two_Sum.js)
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) - [Solution](./Easy/Two_Sum.js)
