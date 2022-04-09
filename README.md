@@ -19,7 +19,7 @@
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) - [Solution](./Easy/Two_Sum.js)
 * [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) - [Solution](./Easy/Two_Sum.js)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) - [Solution](./Easy/1313. Decompress Run-Length Encoded List.js)
-* [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) - [Solution](./Easy/1528. Shuffle String.js)
+* [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) - [Solution](./Easy/1528.Shuffle String.js)
 
 ---
 
